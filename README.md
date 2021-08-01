@@ -1,2 +1,2 @@
 # interior-designer-web
-Website of Interior designer. 
+A simple Website of Interior designer. 
